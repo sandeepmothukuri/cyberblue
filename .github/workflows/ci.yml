@@ -17,6 +17,10 @@ jobs:
         run: cp .env.example .env
 
       - name: Validate docker-compose files
+        env:
+          CORE_TAG: latest
+          PHP_VER: "8.2"
+          MODULES_TAG: latest
         run: |
           docker compose -f docker-compose.yml config -q && echo "OK: docker-compose.yml"
           docker compose -f wazuh/docker-compose.yml config -q && echo "OK: wazuh/docker-compose.yml"
