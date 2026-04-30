@@ -1,11 +1,11 @@
 # 🛡️ CyberBlueSOC Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.0--beta-orange.svg)](https://github.com/CyberBlue0/CyberBlue/releases)
+[![Version](https://img.shields.io/badge/Version-1.0--beta-orange.svg)](https://github.com/sandeepmothukuri/cyberblue/releases)
 [![Docker](https://img.shields.io/badge/Docker-20.10+-blue.svg)](https://www.docker.com/)
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2.0+-blue.svg)](https://docs.docker.com/compose/)
 [![Website](https://img.shields.io/badge/Website-cyberblue.co-blue.svg)](https://cyberblue.co)
-[![For](https://img.shields.io/badge/Purpose-EDUCATION%20ONLY-red.svg)](https://github.com/CyberBlu3s/CyberBlue#-important-security-notice)
+[![For](https://img.shields.io/badge/Purpose-EDUCATION%20ONLY-red.svg)](https://github.com/sandeepmothukuri/cyberblue#-important-security-notice)
 
 # ⚠️ **EDUCATIONAL & TESTING ENVIRONMENT ONLY** ⚠️
 
@@ -165,7 +165,7 @@ bash misp/configure-threat-feeds.sh
 
 ```bash
 # Clone and install CyberBlue SOC
-git clone https://github.com/CyberBlu3s/CyberBlue.git
+git clone https://github.com/sandeepmothukuri/cyberblue.git
 cd CyberBlue
 chmod +x cyberblue_install.sh
 ./cyberblue_install.sh
@@ -659,3 +659,25 @@ This project stands on the shoulders of giants. We are deeply grateful to the en
 *CyberBlue v1.0-beta - Educational Cybersecurity Training Platform*
 
 </div>
+
+---
+
+## 👤 Author
+
+**Sandeep Mothukuri**
+- GitHub: [@sandeepmothukuri](https://github.com/sandeepmothukuri)
+- Portfolio: [github.com/sandeepmothukuri](https://github.com/sandeepmothukuri)
+
+---
+
+## 🗂️ All Repositories
+
+| Repository | Description |
+|---|---|
+| [ai-soc-lab](https://github.com/sandeepmothukuri/ai-soc-lab) | AI-augmented SOC with Wazuh + TheHive + Ollama (LLaMA3) for automated triage |
+| [advanced-soc-forge](https://github.com/sandeepmothukuri/advanced-soc-forge) | 12-tool SOC lab with OpenSearch, Suricata, Zeek, MISP, Caldera, Velociraptor |
+| [Autonomous-SOC-Lab](https://github.com/sandeepmothukuri/Autonomous-SOC-Lab) | Autonomous SOC with AI-driven detection and self-healing playbooks |
+| [soc-threat-hunting-lab](https://github.com/sandeepmothukuri/soc-threat-hunting-lab) | Threat detection lab — Zeek, RITA, Arkime, Velociraptor, OSQuery, MISP |
+| [soc-lab-free](https://github.com/sandeepmothukuri/soc-lab-free) | Free SOC lab — OpenVAS, Wazuh, pfSense, Proxmox Mail, Lynis |
+| [soc-lab](https://github.com/sandeepmothukuri/soc-lab) | SOC analyst home lab — Wazuh SIEM, Sysmon, MITRE ATT&CK mapping |
+| [cyberblue](https://github.com/sandeepmothukuri/cyberblue) | Containerised blue team platform — SIEM, DFIR, CTI, SOAR, Network Analysis |
