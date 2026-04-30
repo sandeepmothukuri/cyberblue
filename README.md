@@ -1,10 +1,11 @@
 # 🛡️ CyberBlueSOC Platform
 
+[![CI](https://github.com/sandeepmothukuri/cyberblue/actions/workflows/ci.yml/badge.svg)](https://github.com/sandeepmothukuri/cyberblue/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.0--beta-orange.svg)](https://github.com/sandeepmothukuri/cyberblue/releases)
 [![Docker](https://img.shields.io/badge/Docker-20.10+-blue.svg)](https://www.docker.com/)
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2.0+-blue.svg)](https://docs.docker.com/compose/)
-[![Website](https://img.shields.io/badge/Website-cyberblue.co-blue.svg)](https://cyberblue.co)
+[![Website](https://img.shields.io/badge/Website-cybertechnology.in-blue.svg)](https://cybertechnology.in)
 [![For](https://img.shields.io/badge/Purpose-EDUCATION%20ONLY-red.svg)](https://github.com/sandeepmothukuri/cyberblue#-important-security-notice)
 
 # ⚠️ **EDUCATIONAL & TESTING ENVIRONMENT ONLY** ⚠️
@@ -12,12 +13,6 @@
 > **🎓 Learning & Training Platform** - Deploy 15+ integrated security tools for cybersecurity education and testing
 
 **CyberBlue** is a comprehensive, containerized cybersecurity **LEARNING PLATFORM** that brings together industry-leading open-source tools for **SIEM**, **DFIR**, **CTI**, **SOAR**, and **Network Analysis**. 
-
-> ### 📘 **Get the CyberBlueSOC Installation & User Guide v1.0**
-> 
-> 🚀 **Want to deploy CyberBlueSOC step-by-step in less than 60 minutes?**  
-> Download the **Free 36-Page Installation and User Guide** that walks you through setup and key configurations.
-> 👉 **Access it here:** [**cyberblue.co**](https://cyberblue.co)
 
 ## 🚨 **IMPORTANT SECURITY NOTICE**
 
@@ -50,7 +45,7 @@ This software is provided "AS IS" for educational purposes. No warranty or guara
 
 **CyberBlue** is an open-source, all-in-one cybersecurity training platform that provides hands-on experience with industry-standard security tools. Built specifically for educational purposes, it allows students, security professionals, and enthusiasts to learn SOC operations, threat hunting, incident response, and security automation in a safe, isolated environment.
 
-🌐 **Website**: [https://cyberblue.co](https://cyberblue.co)  
+🌐 **Website**: [https://cybertechnology.in](https://cybertechnology.in)  
 **📖 Documentation**: Available in this repository  
 **🎓 Purpose**: Educational and training use  
 **📜 License**: MIT (Open Source)  
@@ -595,7 +590,7 @@ CyberBlue includes built-in monitoring:
 
 ## 🌐 Learn More
 
-- 🌍 **Official Website**: [https://cyberblue.co](https://cyberblue.co)
+- 🌍 **Author Website**: [https://cybertechnology.in](https://cybertechnology.in)
 - **📚 Documentation**: Available in this repository
 - **⭐ Star the Project**: Help others discover CyberBlue!
 
@@ -654,8 +649,6 @@ This project stands on the shoulders of giants. We are deeply grateful to the en
 
 **⭐ Star this repository if you find it useful for learning!**
 
-**🌐 Visit [cyberblue.co](https://cyberblue.co) for tutorials and guides**
-
 *CyberBlue v1.0-beta - Educational Cybersecurity Training Platform*
 
 </div>
@@ -664,9 +657,12 @@ This project stands on the shoulders of giants. We are deeply grateful to the en
 
 ## 👤 Author
 
-**Sandeep Mothukuri**
+**Sandeep Mothukuri** — Senior SOC Analyst (L3) | Threat Hunting | Incident Response | CISM
+
+- Website: [cybertechnology.in](https://cybertechnology.in)
+- Email: [sandeep.mothukuris@gmail.com](mailto:sandeep.mothukuris@gmail.com)
 - GitHub: [@sandeepmothukuri](https://github.com/sandeepmothukuri)
-- Portfolio: [github.com/sandeepmothukuri](https://github.com/sandeepmothukuri)
+- LinkedIn: [sandeepmothukuris](https://www.linkedin.com/in/sandeepmothukuris)
 
 ---
 
@@ -675,7 +671,7 @@ This project stands on the shoulders of giants. We are deeply grateful to the en
 | Repository | Description |
 |---|---|
 | [ai-soc-lab](https://github.com/sandeepmothukuri/ai-soc-lab) | AI-augmented SOC with Wazuh + TheHive + Ollama (LLaMA3) for automated triage |
-| [advanced-soc-lab-v2.0](https://github.com/sandeepmothukuri/advanced-soc-forge) | 12-tool SOC lab with OpenSearch, Suricata, Zeek, MISP, Caldera, Velociraptor |
+| [advanced-soc-forge](https://github.com/sandeepmothukuri/advanced-soc-forge) | 12-tool SOC lab with OpenSearch, Suricata, Zeek, MISP, Caldera, Velociraptor |
 | [Autonomous-SOC-Lab](https://github.com/sandeepmothukuri/Autonomous-SOC-Lab) | Autonomous SOC with AI-driven detection and self-healing playbooks |
 | [soc-threat-hunting-lab](https://github.com/sandeepmothukuri/soc-threat-hunting-lab) | Threat detection lab — Zeek, RITA, Arkime, Velociraptor, OSQuery, MISP |
 | [soc-lab-free](https://github.com/sandeepmothukuri/soc-lab-free) | Free SOC lab — OpenVAS, Wazuh, pfSense, Proxmox Mail, Lynis |
