@@ -50,7 +50,7 @@ This software is provided "AS IS" for educational purposes. No warranty or guara
 
 **CyberBlue** is an open-source, all-in-one cybersecurity training platform that provides hands-on experience with industry-standard security tools. Built specifically for educational purposes, it allows students, security professionals, and enthusiasts to learn SOC operations, threat hunting, incident response, and security automation in a safe, isolated environment.
 
-**🌐 Website-NotUpYet**: [https://cyberblue.co](https://cyberblue.co)  
+🌐 **Website**: [https://cyberblue.co](https://cyberblue.co)  
 **📖 Documentation**: Available in this repository  
 **🎓 Purpose**: Educational and training use  
 **📜 License**: MIT (Open Source)  
@@ -595,7 +595,7 @@ CyberBlue includes built-in monitoring:
 
 ## 🌐 Learn More
 
-- **🌍 Official Website (Not Up Yet)**: [https://cyberblue.co](https://cyberblue.co)
+- 🌍 **Official Website**: [https://cyberblue.co](https://cyberblue.co)
 - **📚 Documentation**: Available in this repository
 - **⭐ Star the Project**: Help others discover CyberBlue!
 
