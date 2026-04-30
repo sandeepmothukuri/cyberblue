@@ -654,7 +654,7 @@ This project stands on the shoulders of giants. We are deeply grateful to the en
 
 **⭐ Star this repository if you find it useful for learning!**
 
-**🌐 Visit [cyberblue.co](https://cyberblue.co) for tutorials and guides (Not Up Yet)**
+**🌐 Visit [cyberblue.co](https://cyberblue.co) for tutorials and guides**
 
 *CyberBlue v1.0-beta - Educational Cybersecurity Training Platform*
 
