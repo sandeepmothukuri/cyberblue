@@ -2,3 +2,6 @@
 *.env
 !.env.example
 
+# Runtime-generated credentials
+**/.enrollment-secret
+*.secret
